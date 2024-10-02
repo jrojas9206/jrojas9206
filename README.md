@@ -1,6 +1,8 @@
 Hello!
 
-<img src="images/robot.png" class="img-responsive" alt=""/>
+
+
+![robot garden taken from ac-illust.com](images/robot.png)
 
 
 I'm a fan of embedded systems 🚀, mobile robotics ✈️, and AI 💡. I am currently working on the application and development of computer vision algorithms to solve problems related to plant phenotyping 🌿 and crop status prediction 🥕 from aerial, satellite, and other environmental records 🌍.
